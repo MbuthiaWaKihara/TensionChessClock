@@ -3,9 +3,11 @@
 <p>No complicated time control set up interfaces, have fun with spinners, make your own time controls and manage them</p>
 <p>This project is a good reference for topics like how to use React Navigation library, React Native's offline AsyncStorage API and audio guides implementation</p>
 
-![view during testing](https://github.com/MbuthiaWaKihara/traditional-tic-tac-toe-android/blob/master/screenshots/Screenshot_2020-02-02-08-23-27.png)
-![view during testing](https://github.com/MbuthiaWaKihara/traditional-tic-tac-toe-android/blob/master/screenshots/Screenshot_2020-02-02-08-23-09.png)
-![view during testing](https://github.com/MbuthiaWaKihara/traditional-tic-tac-toe-android/blob/master/screenshots/Screenshot_2020-02-02-08-23-41.png)
+![view during testing](https://github.com/MbuthiaWaKihara/TensionChessClock/blob/master/screenshots/second.png)
+![view during testing](https://github.com/MbuthiaWaKihara/TensionChessClock/blob/master/screenshots/third.png)
+![view during testing](https://github.com/MbuthiaWaKihara/TensionChessClock/blob/master/screenshots/fifth.png)
+![view during testing](https://github.com/MbuthiaWaKihara/TensionChessClock/blob/master/screenshots/sixth.png)
+
 
 # Requirements
 
