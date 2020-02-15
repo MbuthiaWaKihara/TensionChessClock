@@ -16,5 +16,6 @@
 <li>React Library</li>
 <li>React Navigation (RN)</li>
 <li>react-native-sound-player(npm)</li>
+<li>react-native-input-spinner(npm)</li>
 <li>Text Editor</li>
 </ul>
