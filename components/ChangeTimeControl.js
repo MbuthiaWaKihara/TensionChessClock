@@ -122,9 +122,8 @@ const ChangeTimeControl = ({status, save, cancel, setChangingControl, focusedTim
                >
                     <View
                     style={{
-                        // borderWidth: 1,
-                        // borderColor: '#000000',
                         width: '100%',
+                        marginBottom: 40,
                     }}
                     >
                         <Text
