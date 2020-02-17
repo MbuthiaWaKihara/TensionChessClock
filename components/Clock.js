@@ -81,7 +81,7 @@ const Clock = ({respondToPadPress, padState, timeState, navigation, restart, pau
                         onPress={() => pause()}
                         >
                             {
-                                (gameState.gameStarted && !gameState.gamePaused.pause) &&
+                                (gameState.gameStarted && !gameState.gamePaused.pause && !gameState.gameOver) &&
                                 <Image
                                 source={require('../appimages/pause.png')}
                                 />
