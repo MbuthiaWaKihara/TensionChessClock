@@ -1,21 +1,29 @@
 # Tension Chess Clock
-<p>A modern android chess clock that focuses on improving ease of game set up</p>
-<p>No complicated time control set up interfaces, have fun with spinners, make your own time controls and manage them</p>
-<p>This project is a good reference for topics like how to use React Navigation library, React Native's offline AsyncStorage API and audio guides implementation</p>
-
 ![view during testing](https://github.com/MbuthiaWaKihara/TensionChessClock/blob/master/screenshots/second.png)
 ![view during testing](https://github.com/MbuthiaWaKihara/TensionChessClock/blob/master/screenshots/third.png)
 ![view during testing](https://github.com/MbuthiaWaKihara/TensionChessClock/blob/master/screenshots/fifth.png)
 ![view during testing](https://github.com/MbuthiaWaKihara/TensionChessClock/blob/master/screenshots/sixth.png)
 
+# Purpose
 
-# Requirements
+<p>This project is a chess timer for android. It is meant to replace the chess clock, which can be a bit expensive and not portable.</p>
+<p>The project focuses on letting chess players set up games quickly, by removing complex set up rules and interfaces and replacing them with a simple and straghtforward setup process</p>
 
-<ul>
-<li>react-native-cli</li>
-<li>React Library</li>
-<li>React Navigation (RN)</li>
-<li>react-native-sound-player(npm)</li>
-<li>react-native-input-spinner(npm)</li>
-<li>Text Editor</li>
-</ul>
+# Author
+<p>Kihara Evanson Mbuthia</p>
+
+# Known Bugs
+<p>Not really a bug but the icons used are low quality, they are not scaling well on all devices</p>
+<p>Also the clock needs at least one other time control variant, probably most used after the increment is the bronstein delay</p>
+<p>There is a plan to fix these and other undiscovered issues in later releases</p>
+
+# Sources
+<p>The app is available in the google play store, search by name, Tension Chess Clock</p>
+
+# Technologies used
+<ol>
+    <li>React Native (react-native-cli)</li>
+</ol>
+
+# License
+<p>MIT</p>
